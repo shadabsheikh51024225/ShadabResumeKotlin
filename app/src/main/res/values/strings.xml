@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShadabResumeKotlin</string>
+    <string name="activity_main_tiitle_p_g_diploma">P G DIPLOMA</string>
+    <string name="activity_main_tiitle_shadab_sheikh">SHADAB SHEIKH</string>
+    <string name="activity_main_sub_tiitle_android_application_developer">Android Application Developer</string>
+    <string name="activity_main_tiitle_mobile_application_design_and_development">Mobile Application Design And Development.</string>
+    <string name="activity_main_tiitle_information_technology">Information Technology</string>
+    <string name="activity_main_tiitle_engineering">Engineering</string>
+    <string name="activity_main_tiitle_ocjp">OCJP</string>
+    <string name="activity_main_tiitle_oracle_certified_java_professional">Oracle certified Java Professional.</string>
+    <string name="activity_main_year_2016_2018">2016 - 2018</string>
+    <string name="activity_main_year__2008_2012">2008 - 2012</string>
+    <string name="activity_main_year_2014">2014</string>
+</resources>
